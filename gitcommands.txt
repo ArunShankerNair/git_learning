@@ -3,3 +3,9 @@ git clone "remote path"
 git push "origin branch"
 
 git pull
+
+git init for git initialization
+
+git add -A
+
+git commit -m "message"
