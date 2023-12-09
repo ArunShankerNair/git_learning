@@ -1,0 +1,5 @@
+git clone "remote path"
+
+git push "origin branch"
+
+git pull
