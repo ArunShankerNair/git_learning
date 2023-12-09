@@ -6,3 +6,14 @@ git list : shows all history
 
 git branch : lists all branches
 
+git remote add name remote path
+
+git remote -v
+
+git stash
+
+git stash pop
+
+git rebase
+
+git merge
